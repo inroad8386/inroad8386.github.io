@@ -13,9 +13,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: in_road_ # author name
   bio: >- # tell to the world
-    안녕하세요
      <a href="https://github.com/inroad8386" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
+  username: inroad # general username
   github: github_username # github username
   twitter: twitter_userdname # twitter username
   facebook: 1234213fa # facebook username
