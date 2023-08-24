@@ -37,7 +37,8 @@ PW : oracle
 
 <br><br>
 
-<img src='/assets/img/123.png'>
+<img src="../assets/img/123.png">
+
 <br>
 <br>
 
