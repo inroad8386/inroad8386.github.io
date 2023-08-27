@@ -1,9 +1,10 @@
 ---
 title: 블로그 시작
-date: 2023-08-22 11:58:47 +07:00
+date: 2023-08-22 11:58:47 
 tags: 
 description:
 image: 
+published: true
 ---
 
 
