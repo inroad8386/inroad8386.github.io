@@ -181,7 +181,13 @@ namespace PlcRemote
 }
 
 ```
-
+<br><br>
 <br>
-![test](https://github.com/inroad8386/inroad8386.github.io/blob/main/assets/img/good3.PNG?raw=true)
+![test](https://github.com/inroad8386/inroad8386.github.io/blob/main/assets/img/good3.PNG?raw=true)<br>
+<br>
 데이터 값이 계속 변화하는지 확인하기
+<br><br><br><br><br>
+
+[참조]<br>
+https://orangetazo.tistory.com/19 <br>
+https://mech19.tistory.com/45 <br>
