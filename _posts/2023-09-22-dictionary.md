@@ -19,7 +19,7 @@ XAML을 사용하여 앱의 UI 또는 리소스를 정의
 
 
 ## XAML 리소소 사전 추가
-![](/assets/img/dictionary.png)
+![](/assets/img/dictionary.PNG)
 <br>
 <br>
 Ctrl + Shift + A (새 항목 추가) -  리소스 사전 클릭 
@@ -43,7 +43,7 @@ Ctrl + Shift + A (새 항목 추가) -  리소스 사전 클릭
 <br><br><br>
 
 ## MainWindow.xaml
-![](/assets/img/main.png)
+![](/assets/img/main.PNG)
 ```cs
 
     <Window.Resources>
@@ -90,7 +90,7 @@ MainWindow.xaml 에서 Button Style="{StaticResource BtnStyle}" 하여  특성�
 
 
 ## SubWindow.xaml 미완
-![](/assets/img/sub_1.png)
+![](/assets/img/sub_1.PNG)
 
 ```cs
 
@@ -130,7 +130,7 @@ SubWindow.xaml 에서도 같은 특성을 이용하고 싶은데  리소스를 �
 <br>
 
 ## App.xaml
-![](/assets/img/sub.png)
+![](/assets/img/sub.PNG)
 
 
 ```cs
