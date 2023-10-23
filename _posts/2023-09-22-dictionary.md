@@ -8,6 +8,7 @@ published: true
 tags : study
 ---
 
+
 ## Resource Dictionary
 XAML을 사용하여 앱의 UI 또는 리소스를 정의
 <br>
@@ -15,8 +16,7 @@ XAML을 사용하여 앱의 UI 또는 리소스를 정의
 <br>
 향후 XAML 리소스 참조용으로 해당 이름처럼 작동하는 리소스 키를 지정
 <br>
-<br><br>
-
+<br>
 
 ## XAML 리소소 사전 추가
 ![](/assets/img/dictionary.PNG)
@@ -54,23 +54,13 @@ Ctrl + Shift + A (새 항목 추가) -  리소스 사전 클릭
         </ResourceDictionary>
     </Window.Resources>
 
-      <Grid>
-        <Button Style="{StaticResource BtnStyle}" // key = BtnStyle
-        Content="MainWindow"
-        HorizontalAlignment="Left" 
-        Margin="255,150,0,0" 
-        VerticalAlignment="Top" 
-        Width="235"
-        Height="100"/>
-
-    </Grid>
-
 ```
 <br>
 Resource Dictionary 추가를 위해 MergedDictionaries 안의  Source 값을 지정<br>
 처음에 생성했던 Dictionary 파일의 ButtonStyle.xaml의 경로를 Source의 값에 설정<br>
 <br><br>
 <br>
+
 ## StaticResource 
 
 ```cs
@@ -104,12 +94,6 @@ MainWindow.xaml 에서 Button Style="{StaticResource BtnStyle}" 하여  특성�
         Title="SubWindow" Height="450" Width="800">
     <Grid>
         <Button Style="{StaticResource BtnStyle}"  // key = BtnStyle
-        Content="SubWindow"
-        HorizontalAlignment="Left"
-        Margin="285,170,0,0"
-        VerticalAlignment="Top"
-        Width="210"
-        Height="70"/>
     </Grid>
 
 </Window>
@@ -153,6 +137,11 @@ SubWindow.xaml 에서도 같은 특성을 이용하고 싶은데  리소스를 �
 ```
 App.xaml에 리소스를 작성한 후 subwindow의 화면이다 <br> 리소스 딕셔너리의 스타일 특성을 잘 불러와진 모습이다 <br><br>
 추가적으로 Mainwindow에 작성한 리소스를 제거 해주어도 <br>이미 App.xaml에 작성하였기 때문에 특성은 유지 된다
+<br>
+<br>
+<br>
+
+
 
 <br><br>
 ## 이글을 마치며
