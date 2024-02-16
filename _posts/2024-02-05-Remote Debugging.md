@@ -27,7 +27,11 @@ tags : study
 
 
 ![](/assets/img/20240216/remote2.PNG)<br>
-<br>실행할때 관리자 권한으로 실행할 것<br>
+<br>실행할때 관리자 권한으로 실행합니다.<br>
+<br><br>
+
+![](/assets/img/20240216/set2.PNG)<br><br>
+실행 후 디버그 사용권한을 체크하여 줍니다.<br>
 <br><br>
 
 ## 접속 설정 <br>
