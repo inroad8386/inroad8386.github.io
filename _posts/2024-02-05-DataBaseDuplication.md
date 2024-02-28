@@ -5,7 +5,7 @@ tags:
 description:
 image: 
 published: true
-tags : ORACLE
+tags : oracle
 ---
 
 ## 데이터베이스 복사
